@@ -6,3 +6,4 @@ text("Petra", 10, 10);
 
 fill(0, 0, 255); 
 text("Nedeljkovic", 10, 30);
+//bug fixed
